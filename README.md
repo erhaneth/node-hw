@@ -15,4 +15,3 @@
 * Write `require` function that take one argument and contains the module will be export.
 * Run `node index.js` in command line.
 
-# Node packages 
